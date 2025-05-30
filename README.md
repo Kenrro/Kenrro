@@ -9,8 +9,9 @@
   <img align="right" src="https://cdnb.artstation.com/p/assets/images/images/052/142/157/original/johan-cediel-rodriguez-pixel-artv2exp.gif?1659037637" width="150">
 </a>
 
+<h2>Kevin Zelaya</h2>
 
-- 💻 Técnico en sitemas microinformaticos y redes <a href="https://www.iesluisvives.es" target="_blank">
+- 💻 Técnico en sitemas microinformaticos y redes <a href="https://www.iesluisvives.es" target="_blank">SMR</a>
 - ⚡ Cursando actualmente Desarrollo de aplicaciones multiplataformas.
 
 
